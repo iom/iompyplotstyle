@@ -1,0 +1,11 @@
+country_name,percent_migrant,total_population,incomeLevel,region,gdp_capita,year
+United States,14.4906535240608,320635163.0,High income,North America,57040.2082136605,2015
+Russian Federation,8.11621785991527,144096870.0,High income,Europe & Central Asia,9277.7138671875,2015
+Japan,1.61477505702794,127141000.0,High income,East Asia & Pacific,34960.6393843385,2015
+Germany,14.8790512953233,81686611.0,High income,Europe & Central Asia,41911.0109851054,2015
+France,12.0884793768866,66548272.0,High income,Europe & Central Asia,36702.4323733379,2015
+United Kingdom,13.200978246274,65116219.0,High income,Europe & Central Asia,44964.3911437292,2015
+Italy,9.6807677420957,60730582.0,High income,Europe & Central Asia,30387.1293187854,2015
+"Korea, Rep.",2.63915935436429,51014947.0,High income,East Asia & Pacific,28737.4391706499,2015
+Spain,12.6902371918259,46444832.0,High income,Europe & Central Asia,25969.8383138327,2015
+Poland,1.60418083655994,37986412.0,High income,Europe & Central Asia,12637.5220324406,2015

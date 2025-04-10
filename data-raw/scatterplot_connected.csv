@@ -1,0 +1,25 @@
+country_name,percent_migrant,total_population,incomeLevel,region,gdp_capita,year
+South Africa,5.76709044891315,55386367.0,Upper middle income,Sub-Saharan Africa ,6112.27382485974,2015
+South Africa,3.76412049577547,51216964.0,Upper middle income,Sub-Saharan Africa ,7973.47195771517,2010
+South Africa,2.50436834765266,47880601.0,Upper middle income,Sub-Saharan Africa ,5836.87663325127,2005
+South Africa,2.23139232733802,44967708.0,Upper middle income,Sub-Saharan Africa ,3217.84693448467,2000
+South Africa,2.4230854367015,41435758.0,Upper middle income,Sub-Saharan Africa ,3855.6340871567,1995
+South Africa,3.16328513549544,36800509.0,Upper middle income,Sub-Saharan Africa ,3093.48920352334,1990
+Australia,28.2184096915625,23815995.0,High income,East Asia & Pacific,56739.0265346593,2015
+Australia,26.5443142431553,22031750.0,High income,East Asia & Pacific,52144.6654705468,2010
+Australia,24.0601862004287,20394800.0,High income,East Asia & Pacific,34479.7679298388,2005
+Australia,22.9559448399982,19153000.0,High income,East Asia & Pacific,21870.4159669594,2000
+Australia,22.9152149241066,18072000.0,High income,East Asia & Pacific,20448.1219685874,1995
+Australia,23.1341364316472,17065100.0,High income,East Asia & Pacific,18249.3014538169,1990
+Sweden,16.7675587503806,9799186.0,High income,Europe & Central Asia,51197.9529341175,2015
+Sweden,14.7610867573261,9378126.0,High income,Europe & Central Asia,52542.8274141037,2010
+United Arab Emirates,88.4040483728066,9262900.0,High income,Middle East & North Africa,43534.9972681733,2015
+Sweden,12.4669953355216,9029572.0,High income,Europe & Central Asia,43378.6152117149,2005
+Sweden,11.3138623605827,8872109.0,High income,Europe & Central Asia,29632.7736101599,2000
+Sweden,10.60441477695,8826939.0,High income,Europe & Central Asia,30254.2972932631,1995
+Sweden,9.21552914340246,8558835.0,High income,Europe & Central Asia,30549.6692751763,1990
+United Arab Emirates,87.8402339265255,8549988.0,High income,Middle East & North Africa,43696.6712597922,2010
+United Arab Emirates,73.2051220265347,4588225.0,High income,Middle East & North Africa,38719.3138307623,2005
+United Arab Emirates,80.2154860386187,3134062.0,High income,Middle East & North Africa,29865.502347066,2000
+United Arab Emirates,77.6157011852649,2415090.0,High income,Middle East & North Africa,27003.2006807782,1995
+United Arab Emirates,72.1283076946857,1828432.0,High income,Middle East & North Africa,26709.993440327,1990

@@ -9,9 +9,9 @@ forpypi.txt
 
 
 index.quarto_ipynb
-index_files/
-index.qmd
-data-raw/
-index.html
-_extensions/
+#index_files/
+#index.qmd
+#data-raw/
+#index.html
+#_extensions/
 
